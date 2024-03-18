@@ -1,0 +1,2 @@
+export const SET_SCANNED = "SET_SCANNED";
+export const SET_CURRENT_CONTACT = "SET_CURRENT_CONTACT";
